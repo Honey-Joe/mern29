@@ -1,0 +1,27 @@
+h2{
+    color: green ;
+}
+
+/* *{
+    color: yellow;
+} */
+
+
+.heading{
+    color: red;
+}
+
+#head{
+    color: blue;
+}
+
+.text{
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  font-style:italic;
+  text-align: justify;
+  text-decoration: underline dashed red;
+  text-transform: lowercase;
+  line-height: 80px;
+}
